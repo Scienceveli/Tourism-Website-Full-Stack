@@ -32,8 +32,7 @@ Welcome to the **Scienceveli Tourism Management System**! This is a powerful, mu
 **Ahmed Samir**  
 📌 Founder of **Scienceveli**  
 [![Facebook](https://img.shields.io/badge/Facebook-Scienceveli-blue?style=flat&logo=facebook)](http://www.facebook.com/sciencael)  
-### Contact for Full Version:
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/201029107547){:height="20px" width="20px"}  [Buy Full Version](https://wa.me/201029107547)
+[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/201029107547) [Buy Full Version](https://wa.me/201029107547)
 
 ---
 
