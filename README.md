@@ -33,7 +33,8 @@ Welcome to the **Scienceveli Tourism Management System**! This is a powerful, mu
 📌 Founder of **Scienceveli**  
 [![Facebook](https://img.shields.io/badge/Facebook-Scienceveli-blue?style=flat&logo=facebook)](http://www.facebook.com/sciencael)  
 [[![Buy Full Version](https://img.shields.io/badge/Buy%20Now-Full%20Version-green?style=flat)](#)
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/201029107547)
+### Contact for Full Version:
+[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/201029107547){:height="20px" width="20px"}  [Buy Full Version](https://wa.me/201029107547)
 
 )
 ---
