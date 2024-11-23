@@ -39,7 +39,7 @@ Welcome to the **Scienceveli Tourism Management System**! This is a powerful, mu
 ### **📸 Project Image**
 Below is a visual representation of the project design:
 
-![Scienceveli Tourism](https://via.placeholder.com/1200x600.png?text=Welcome+to+Scienceveli+Tourism)
+![Scienceveli Tourism](https://github.com/Scienceveli/Tourism-Website-Full-Stack/blob/main/image.png?raw=true)
 
 ---
 
