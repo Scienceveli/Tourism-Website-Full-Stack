@@ -28,11 +28,11 @@ Welcome to the **Scienceveli Tourism Management System**! This is a powerful, mu
 - **Algorithms**: C++
 
 ---
-
-### **🌟 Developed By**
+### 🌟 Developed By
 **Ahmed Samir**  
 📌 Founder of **Scienceveli**  
-🌐 [Follow on Facebook](http://www.facebook.com/sciencael)
+[![Facebook](https://img.shields.io/badge/Facebook-Scienceveli-blue?style=flat&logo=facebook)](http://www.facebook.com/sciencael)  
+[![Buy Full Version](https://img.shields.io/badge/Buy%20Now-Full%20Version-green?style=flat)](#)
 
 ---
 
